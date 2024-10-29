@@ -9,5 +9,10 @@
         "phpstan/phpstan-strict-rules": "^1.6",
         "phpstan/phpstan-symfony": "^1.4",
         "phpstan/phpstan-doctrine": "^1.5"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
     }
 }
