@@ -1,5 +1,6 @@
 {
     "name": "netgen/symfony-skeleton",
+    "type": "symfony-pack",
     "require": {
         "netgen/git-hooks": "^2.5",
         "php-cs-fixer/shim": "^3.64",
